@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cff00ff00PulseEmotes|r
+## Notes: Quick emote menu triggered by Insert - Created by impulseffs
+## Author: impulseffs
+## Version: 1.0
+## SavedVariables: PulseEmotesDB
+
+PulseEmotes.xml
+PulseEmotes.lua
