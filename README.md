@@ -1,6 +1,11 @@
 # PulseEmotes
 
 ![Image](https://github.com/user-attachments/assets/0f86d16f-a011-4240-87fd-ea613d12381f)
+
+
+
+
+
 A World of Warcraft 3.3.5a (WotLK) addon that provides a convenient, customizable emote menu for quick access to popular emotes.
 
 ## Features
