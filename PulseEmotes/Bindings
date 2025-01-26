@@ -1,1 +1,6 @@
+<![CDATA[<Bindings>
+    <Binding name="TOGGLEPULSEEMOTES" header="PULSEEMOTES">
+        TogglePulseEmotes();
+    </Binding>
+</Bindings>]]>
 
